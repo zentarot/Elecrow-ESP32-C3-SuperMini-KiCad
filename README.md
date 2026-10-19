@@ -69,4 +69,4 @@ The following Elecrow images were used as visual references for the pin labels a
 
 ## License
 
-The library files in this repository are released under the **CERN-OHL-S-2.0** license. See [LICENSE](LICENSE). Product names and trademarks belong to their respective owners. This is an independent community project and is not endorsed by Elecrow.
+No reuse license has been selected yet. See [LICENSE-NOTE.md](LICENSE-NOTE.md). Until the repository owner adds a license, public availability on GitHub does not grant permission to reuse, modify, or redistribute these files. Product names and trademarks belong to their respective owners. This is an independent community project and is not endorsed by Elecrow.
