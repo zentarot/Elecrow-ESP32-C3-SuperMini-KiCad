@@ -4,8 +4,6 @@ Unofficial KiCad symbol and through-hole footprint library for the **Elecrow ESP
 
 The **2.00 mm footprint variant has been physically validated by the repository maintainer**: a PCB was fabricated using this footprint and the module pin spacing/alignment matched. The 2.54 mm variant is retained as an alternative and is not the validated default.
 
-![Elecrow ESP32-C3 SuperMini module](images/esp32-c3-supermini.jpg)
-
 ## Included
 
 - `ESP32-C3-SuperMini_Elecrow.kicad_sym` — schematic symbol with 16 named pins and electrical connection endpoints. Its default footprint field selects the validated 2 mm variant.
